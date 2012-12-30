@@ -1,0 +1,56 @@
+body {
+	font-family: 'Open Sans Light', 'Open Sans', sans-serif; 
+  font-size: 16px;
+}
+
+#name {
+	margin-top: 50%; 
+	color: #333333;
+	font-size: 300%; 
+	font-weight: bold;
+}
+
+#nametag {
+	float: left;
+	text-align: right;
+  width: 48%;
+  margin-right: 2%;
+}
+
+#main {
+	margin: 10% auto 0;
+	text-align:ccenter;
+	width: 50%;
+}
+
+#links {
+	float: left; 
+	text-align: left;
+  margin-left: 3%;
+  width: 47%;
+  padding-top: 18%;
+}
+
+#links a {
+	font-size: 200%;
+	text-decoration: none;
+	line-height: 32px;
+}
+
+#links a:link, #links a:visited {
+	color: #333333;
+}
+
+#links a:hover {
+	color: #FF8C00;
+}
+
+#links img {
+	vertical-align: middle;
+	border: none;
+}
+
+#links div {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
